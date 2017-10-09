@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListExamples</string>
+    <string name="menu_remove">Remove Item</string>
+    <string name="menu_edit">Edit Item?</string>
+    <string name="file">File</string>
+    <string name="sort">Sort</string>
+</resources>
